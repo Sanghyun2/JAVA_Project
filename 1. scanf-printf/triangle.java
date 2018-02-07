@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {  // calculate the second
+public class Main {  // calculate the area of the triangle
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);

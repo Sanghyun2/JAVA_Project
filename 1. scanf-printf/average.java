@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {  // calculate the second
+public class Main {  // calculate the average
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);

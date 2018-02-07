@@ -10,7 +10,7 @@ public class Main {  // multiplication by three digits
 		int a1 = Integer.parseInt(a);  //  To replace a string with a number
 		int b1 = Integer.parseInt(b);
 		
-		// System.out.println( a1+" "+b1  );
+		// System.out.println( a1+" "+b1  ); // To check the results
 		
 		int [] num1 = new int [a.length()];
 		int [] num2 = new int [b.length()];

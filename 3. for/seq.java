@@ -11,12 +11,10 @@ public class Main {  // print out the number between two numbers on after the ot
 			for( int i = 0 ; i<=(a-b) ; i++ ) {
 				System.out.print(b+i+" ");
 				}
-			}
-		else if ( b>a ) { 
+		} else { 
 			for( int i = 0 ; i<=(b-a) ; i++ ) {
 				System.out.print(a+i+" ");
 				}
 			}
-		else { System.out.print(a); }
 		}
 }
